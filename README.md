@@ -61,7 +61,6 @@ Digital Paint Lab, gerçek dünya boya karıştırma sürecini simüle eden bir 
 ### 1. Frontend Kurulumu
 
 ```bash
-cd /Users/yigitakturk/Desktop/projeler/boya_yapma_ltd_sti/frontend
 
 # Zaten yüklü, ancak tekrar yüklemek için:
 # npm install
@@ -72,13 +71,6 @@ npm run dev
 
 Uygulama şu adreste çalışacak: **http://localhost:3000**
 
-### 2. Production Build (İsteğe Bağlı)
-
-```bash
-cd frontend
-npm run build
-npm start
-```
 
 ## Kullanım
 
