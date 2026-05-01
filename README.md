@@ -153,16 +153,6 @@ Uygulama, RGB tabanlı subtractive color mixing yaklaşımı kullanır:
 
 4. **Responsive**: Mobil cihazlarda kolonlar dikey olarak sıralanır.
 
-## Gelecek Geliştirmeler (Opsiyonel)
-
-- [ ] Tarifleri LocalStorage'a kaydetme
-- [ ] URL ile tarif paylaşma
-- [ ] Gerçek duvar dokusu görselleri ekleme
-- [ ] PDF export özelliği
-- [ ] Pantone/RAL renk eşleştirme
-- [ ] FastAPI backend entegrasyonu (ileri seviye hesaplamalar için)
-- [ ] User authentication ve cloud recipe storage
-
 ## Hata Giderme
 
 ### Port zaten kullanımda
